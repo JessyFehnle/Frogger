@@ -8,7 +8,7 @@
 
 ## Como jogar
 
-**Objetivo**: Atravessar o caminho e cheguar ao rio sem ser tocado pelos insetos.
+**Objetivo**: Atravessar o caminho e chegar ao rio sem ser tocado pelos insetos.
 
 **Movimentos**: Use as teclas direcionais para movimentar o seu avatar.
 
