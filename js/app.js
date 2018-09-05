@@ -1,7 +1,6 @@
 // Variável inimigo que recebe posição x e y, além de uma variável de
 // velocidade para o seu movimento automático.
 var Enemy = function(x, y, vel) {
-
     this.x = x;
     this.y = y;
     this.vel = vel;
@@ -67,8 +66,8 @@ Player.prototype.update = function(){
 	// inicial de forma mais devagar utilizando o setTimeout.
 	if (this.y < 0){
 		setTimeout(() => {
-            this.x = 202;
-            this.y = 400;
+		this.x = 202;
+		this.y = 400;
 		}, 50);
 	}
 };
