@@ -1,4 +1,5 @@
 # Udacity Web Front-End Nanodegree: Frogger Clone
+1º Projeto do Nanodegree Web Front-End. O projeto consiste em recriar um jogo no mesmo estilo do game Frogger.
 
 ## Como configurar para jogar
 
